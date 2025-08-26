@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EY\\source\\repos\\FitnessUyg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{981CA12C-5BAF-49EC-BE2C-77D5D9CA77BC}|FitnessUyg\\FitnessUyg.csproj|c:\\users\\ey\\source\\repos\\fitnessuyg\\fitnessuyg\\formlar\\a_aletler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981CA12C-5BAF-49EC-BE2C-77D5D9CA77BC}|FitnessUyg\\FitnessUyg.csproj|solutionrelative:fitnessuyg\\formlar\\a_aletler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981CA12C-5BAF-49EC-BE2C-77D5D9CA77BC}|FitnessUyg\\FitnessUyg.csproj|c:\\users\\ey\\source\\repos\\fitnessuyg\\fitnessuyg\\formlar\\a_aletler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{981CA12C-5BAF-49EC-BE2C-77D5D9CA77BC}|FitnessUyg\\FitnessUyg.csproj|solutionrelative:fitnessuyg\\formlar\\a_aletler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981CA12C-5BAF-49EC-BE2C-77D5D9CA77BC}|FitnessUyg\\FitnessUyg.csproj|c:\\users\\ey\\source\\repos\\fitnessuyg\\fitnessuyg\\formlar\\k_aletler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{981CA12C-5BAF-49EC-BE2C-77D5D9CA77BC}|FitnessUyg\\FitnessUyg.csproj|solutionrelative:fitnessuyg\\formlar\\k_aletler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981CA12C-5BAF-49EC-BE2C-77D5D9CA77BC}|FitnessUyg\\FitnessUyg.csproj|c:\\users\\ey\\source\\repos\\fitnessuyg\\fitnessuyg\\formlar\\k_aletler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981CA12C-5BAF-49EC-BE2C-77D5D9CA77BC}|FitnessUyg\\FitnessUyg.csproj|solutionrelative:fitnessuyg\\formlar\\k_aletler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981CA12C-5BAF-49EC-BE2C-77D5D9CA77BC}|FitnessUyg\\FitnessUyg.csproj|C:\\Users\\EY\\source\\repos\\FitnessUyg\\fitnessuyg\\formlar\\a_adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{981CA12C-5BAF-49EC-BE2C-77D5D9CA77BC}|FitnessUyg\\FitnessUyg.csproj|solutionrelative:fitnessuyg\\formlar\\a_adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981CA12C-5BAF-49EC-BE2C-77D5D9CA77BC}|FitnessUyg\\FitnessUyg.csproj|c:\\users\\ey\\source\\repos\\fitnessuyg\\fitnessuyg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981CA12C-5BAF-49EC-BE2C-77D5D9CA77BC}|FitnessUyg\\FitnessUyg.csproj|solutionrelative:fitnessuyg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "k_aletler.cs",
+              "DocumentMoniker": "C:\\Users\\EY\\source\\repos\\FitnessUyg\\FitnessUyg\\Formlar\\k_aletler.cs",
+              "RelativeDocumentMoniker": "FitnessUyg\\Formlar\\k_aletler.cs",
+              "ToolTip": "C:\\Users\\EY\\source\\repos\\FitnessUyg\\FitnessUyg\\Formlar\\k_aletler.cs",
+              "RelativeToolTip": "FitnessUyg\\Formlar\\k_aletler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T10:26:56.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "k_aletler.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EY\\source\\repos\\FitnessUyg\\FitnessUyg\\Formlar\\k_aletler.cs",
+              "RelativeDocumentMoniker": "FitnessUyg\\Formlar\\k_aletler.cs",
+              "ToolTip": "C:\\Users\\EY\\source\\repos\\FitnessUyg\\FitnessUyg\\Formlar\\k_aletler.cs [Design]",
+              "RelativeToolTip": "FitnessUyg\\Formlar\\k_aletler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T10:26:54.974Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "a_aletler.cs",
+              "DocumentMoniker": "C:\\Users\\EY\\source\\repos\\FitnessUyg\\FitnessUyg\\Formlar\\a_aletler.cs",
+              "RelativeDocumentMoniker": "FitnessUyg\\Formlar\\a_aletler.cs",
+              "ToolTip": "C:\\Users\\EY\\source\\repos\\FitnessUyg\\FitnessUyg\\Formlar\\a_aletler.cs",
+              "RelativeToolTip": "FitnessUyg\\Formlar\\a_aletler.cs",
+              "ViewState": "AgIAAOwAAAAAAAAAAAAwwP8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T10:25:31.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "a_aletler.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EY\\source\\repos\\FitnessUyg\\FitnessUyg\\Formlar\\a_aletler.cs",
+              "RelativeDocumentMoniker": "FitnessUyg\\Formlar\\a_aletler.cs",
+              "ToolTip": "C:\\Users\\EY\\source\\repos\\FitnessUyg\\FitnessUyg\\Formlar\\a_aletler.cs [Design]",
+              "RelativeToolTip": "FitnessUyg\\Formlar\\a_aletler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T10:25:23.428Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "a_adminlogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EY\\source\\repos\\FitnessUyg\\FitnessUyg\\Formlar\\a_adminlogin.cs",
+              "RelativeDocumentMoniker": "FitnessUyg\\Formlar\\a_adminlogin.cs",
+              "ToolTip": "C:\\Users\\EY\\source\\repos\\FitnessUyg\\FitnessUyg\\Formlar\\a_adminlogin.cs [Design]",
+              "RelativeToolTip": "FitnessUyg\\Formlar\\a_adminlogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T20:01:12.41Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\EY\\source\\repos\\FitnessUyg\\FitnessUyg\\Form1.cs",
+              "RelativeDocumentMoniker": "FitnessUyg\\Form1.cs",
+              "ToolTip": "C:\\Users\\EY\\source\\repos\\FitnessUyg\\FitnessUyg\\Form1.cs",
+              "RelativeToolTip": "FitnessUyg\\Form1.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T12:06:28.276Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

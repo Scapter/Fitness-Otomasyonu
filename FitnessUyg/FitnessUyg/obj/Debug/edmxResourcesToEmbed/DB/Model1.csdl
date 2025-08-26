@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="FitnessModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Admin">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="KullaniciAdi" Type="String" MaxLength="60" FixedLength="false" Unicode="true" />
+    <Property Name="Sifre" Type="String" MaxLength="60" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="FitnessEntities2" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Admin" EntityType="Self.Admin" />
+    <EntitySet Name="Uyeler" EntityType="FitnessModel.Uyeler" />
+    <EntitySet Name="Kullanicilar" EntityType="FitnessModel.Kullanicilar" />
+    <EntitySet Name="EgzersizProgram1" EntityType="FitnessModel.EgzersizProgram1" />
+    <EntitySet Name="EgzersizProgram3" EntityType="FitnessModel.EgzersizProgram3" />
+    <EntitySet Name="EgzersizProgram2" EntityType="FitnessModel.EgzersizProgram2" />
+    <EntitySet Name="İcecekFiyat" EntityType="FitnessModel.İcecekFiyat" />
+    <EntitySet Name="UyelikFiyat" EntityType="FitnessModel.UyelikFiyat" />
+    <EntitySet Name="Aletler" EntityType="FitnessModel.Aletler" />
+  </EntityContainer>
+  <EntityType Name="Uyeler">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Ad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Soyad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Cinsiyet" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="DoğumTarihi" Type="DateTime" Precision="0" />
+    <Property Name="Mail" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="TelNo" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="ÜyelikBitiş" Type="DateTime" Precision="0" />
+    <Property Name="Durum" Type="Boolean" />
+    <Property Name="Kilo" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="ÜyelikTürü" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Kullanicilar">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="KullaniciAdi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Sifre" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Ad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Soyad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Cinsiyet" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="DogumTarihi" Type="DateTime" Precision="0" />
+    <Property Name="Mail" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Kilo" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Program" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="EgzersizProgram1">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Gün" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Egzersiz" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Set" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Tekrar" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Not" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="EgzersizProgram3">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Gün" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Egzersiz" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Set" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Tekrar" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Not" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="EgzersizProgram2">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Gün" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Egzersiz" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Set" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Tekrar" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Not" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="İcecekFiyat">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Ürün" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Fiyat" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="UyelikFiyat">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Üyelik" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Fiyat" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Aletler">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="AletAdi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Aciklama" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="Dizin" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+</Schema>

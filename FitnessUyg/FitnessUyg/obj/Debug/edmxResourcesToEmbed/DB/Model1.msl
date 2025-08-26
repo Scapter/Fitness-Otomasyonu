@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="FitnessModelStoreContainer" CdmEntityContainer="FitnessEntities2">
+    <EntitySetMapping Name="Admin">
+      <EntityTypeMapping TypeName="FitnessModel.Admin">
+        <MappingFragment StoreEntitySet="Admin">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="KullaniciAdi" ColumnName="KullaniciAdi" />
+          <ScalarProperty Name="Sifre" ColumnName="Sifre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Uyeler">
+      <EntityTypeMapping TypeName="FitnessModel.Uyeler">
+        <MappingFragment StoreEntitySet="Uyeler">
+          <ScalarProperty Name="ÜyelikTürü" ColumnName="ÜyelikTürü" />
+          <ScalarProperty Name="Kilo" ColumnName="Kilo" />
+          <ScalarProperty Name="Durum" ColumnName="Durum" />
+          <ScalarProperty Name="ÜyelikBitiş" ColumnName="ÜyelikBitiş" />
+          <ScalarProperty Name="TelNo" ColumnName="TelNo" />
+          <ScalarProperty Name="Mail" ColumnName="Mail" />
+          <ScalarProperty Name="DoğumTarihi" ColumnName="DoğumTarihi" />
+          <ScalarProperty Name="Cinsiyet" ColumnName="Cinsiyet" />
+          <ScalarProperty Name="Soyad" ColumnName="Soyad" />
+          <ScalarProperty Name="Ad" ColumnName="Ad" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Kullanicilar">
+      <EntityTypeMapping TypeName="FitnessModel.Kullanicilar">
+        <MappingFragment StoreEntitySet="Kullanicilar">
+          <ScalarProperty Name="Program" ColumnName="Program" />
+          <ScalarProperty Name="Kilo" ColumnName="Kilo" />
+          <ScalarProperty Name="Mail" ColumnName="Mail" />
+          <ScalarProperty Name="DogumTarihi" ColumnName="DogumTarihi" />
+          <ScalarProperty Name="Cinsiyet" ColumnName="Cinsiyet" />
+          <ScalarProperty Name="Soyad" ColumnName="Soyad" />
+          <ScalarProperty Name="Ad" ColumnName="Ad" />
+          <ScalarProperty Name="Sifre" ColumnName="Sifre" />
+          <ScalarProperty Name="KullaniciAdi" ColumnName="KullaniciAdi" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EgzersizProgram1">
+      <EntityTypeMapping TypeName="FitnessModel.EgzersizProgram1">
+        <MappingFragment StoreEntitySet="EgzersizProgram1">
+          <ScalarProperty Name="Not" ColumnName="Not" />
+          <ScalarProperty Name="Tekrar" ColumnName="Tekrar" />
+          <ScalarProperty Name="Set" ColumnName="Set" />
+          <ScalarProperty Name="Egzersiz" ColumnName="Egzersiz" />
+          <ScalarProperty Name="Gün" ColumnName="Gün" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EgzersizProgram3">
+      <EntityTypeMapping TypeName="FitnessModel.EgzersizProgram3">
+        <MappingFragment StoreEntitySet="EgzersizProgram3">
+          <ScalarProperty Name="Not" ColumnName="Not" />
+          <ScalarProperty Name="Tekrar" ColumnName="Tekrar" />
+          <ScalarProperty Name="Set" ColumnName="Set" />
+          <ScalarProperty Name="Egzersiz" ColumnName="Egzersiz" />
+          <ScalarProperty Name="Gün" ColumnName="Gün" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EgzersizProgram2">
+      <EntityTypeMapping TypeName="FitnessModel.EgzersizProgram2">
+        <MappingFragment StoreEntitySet="EgzersizProgram2">
+          <ScalarProperty Name="Not" ColumnName="Not" />
+          <ScalarProperty Name="Tekrar" ColumnName="Tekrar" />
+          <ScalarProperty Name="Set" ColumnName="Set" />
+          <ScalarProperty Name="Egzersiz" ColumnName="Egzersiz" />
+          <ScalarProperty Name="Gün" ColumnName="Gün" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="İcecekFiyat">
+      <EntityTypeMapping TypeName="FitnessModel.İcecekFiyat">
+        <MappingFragment StoreEntitySet="İcecekFiyat">
+          <ScalarProperty Name="Fiyat" ColumnName="Fiyat" />
+          <ScalarProperty Name="Ürün" ColumnName="Ürün" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UyelikFiyat">
+      <EntityTypeMapping TypeName="FitnessModel.UyelikFiyat">
+        <MappingFragment StoreEntitySet="UyelikFiyat">
+          <ScalarProperty Name="Fiyat" ColumnName="Fiyat" />
+          <ScalarProperty Name="Üyelik" ColumnName="Üyelik" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Aletler">
+      <EntityTypeMapping TypeName="FitnessModel.Aletler">
+        <MappingFragment StoreEntitySet="Aletler">
+          <ScalarProperty Name="Dizin" ColumnName="Dizin" />
+          <ScalarProperty Name="Aciklama" ColumnName="Aciklama" />
+          <ScalarProperty Name="AletAdi" ColumnName="AletAdi" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
