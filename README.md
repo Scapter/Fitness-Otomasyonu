@@ -4,13 +4,13 @@ Fitness Otomasyonu, bir fitness salonunun üyelerini, antrenman programlarını 
 
 📌 Özellikler
 
-Üye kayıt, güncelleme ve silme
-Antrenman programı ekleme ve takip
-Üyelik Türü Sistemi
-Basit ve kullanıcı dostu arayüz
-
+- Üye kayıt, güncelleme ve silme
+- Antrenman programı ekleme ve takip
+- Üyelik Türü Sistemi
+- Basit ve kullanıcı dostu arayüz
+  
 🛠 Teknolojiler
 
-Programlama Dili: C#
-Veritabanı: SQL Server
-IDE: Visual Studio
+- Programlama Dili: C#
+- Veritabanı : SQL Server
+- IDE: Visual Studio
