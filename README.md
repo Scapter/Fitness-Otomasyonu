@@ -27,7 +27,7 @@ Bu iki tip kullanıcı sistemi, birbirinden bağımsız olarak ilerlemektedir.
 Ana Sayfadan Kullanıcı veya Admin Girişi Yapılır:
 ![Image Alt](https://github.com/Scapter/Fitness-Otomasyonu/blob/main/proje_g%C3%B6rselleri/anasayfa.png?raw=true)
 
-Kullanıcı girişi sayfası:
+Kullanıcı girişi sayfası: <br>
 ![Image Alt](https://github.com/Scapter/Fitness-Otomasyonu/blob/main/proje_g%C3%B6rselleri/loginpage.png?raw=true)
 
 Admin girşi sayfası, admin için yeni profil kaydı giriş yapıldıktan sonra yapılabilir. giriş için kullanıcı adı : admin  --   şifre 123
@@ -36,7 +36,7 @@ Admin girşi sayfası, admin için yeni profil kaydı giriş yapıldıktan sonra
 Kullanıcı girişi yapıldığında Merhaba "kullanıcı adı" ve egzersiz programınız yazan kısım vardır:
 ![Image Alt](https://github.com/Scapter/Fitness-Otomasyonu/blob/main/proje_g%C3%B6rselleri/kullanicipage.png?raw=true)
 
-Kullanıcı yeni kaydolduysa uyarıyla karşılaşacaktır
+Kullanıcı yeni kaydolduysa uyarıyla karşılaşacaktır <br>
 ![Image Alt](https://github.com/Scapter/Fitness-Otomasyonu/blob/main/proje_g%C3%B6rselleri/programsecin.png?raw=true)
 
 Kullanıcı Egzersiz Programları sayfasından spor salonunda kullanmak istediği egzersiz programı kaydedebilir
