@@ -24,7 +24,7 @@ Proje Hakkında;
 Projede aslında iki tip kullanıcı kaydı var biri normal uygulamayı kullanmak isteyen kişi için diğeri ise salon sahibinin admin sayfasından salona girenlerin üye listesini ve üyelik bitiş gibi tarihleri takip edilebilmesi için yapılan salon üye kaydı.
 Bu iki tip kullanıcı sistemi, birbirinden bağımsız olarak ilerlemektedir.
 
-Ana Sayfadan Kullanıcı veya Admin Girişi Yapılır:<br>
+##Ana Sayfadan Kullanıcı veya Admin Girişi Yapılır:<br>
 ![Image Alt](https://github.com/Scapter/Fitness-Otomasyonu/blob/main/proje_g%C3%B6rselleri/anasayfa.png?raw=true) <br>
 
 Kullanıcı girişi sayfası: <br>
