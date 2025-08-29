@@ -1,4 +1,4 @@
-#### Fitness Otomasyonu
+# Fitness Otomasyonu
 
 ## Fitness Otomasyonu, bir fitness salonunun üyelerini, antrenman programlarını ve üyeliklerini yönetmek için geliştirilmiş bir masaüstü uygulamasıdır. C# ve SQL kullanılarak geliştirilmiştir.
 
@@ -18,9 +18,9 @@
 <br><br><br><br><br>
 
 
-### Proje Hakkında;
+# Proje Hakkında;
 
-## -- KULLANICI İÇİN -- <br>
+# -- KULLANICI İÇİN -- <br>
 Projede aslında iki tip kullanıcı kaydı var biri normal uygulamayı kullanmak isteyen kişi için diğeri ise salon sahibinin admin sayfasından salona girenlerin üye listesini ve üyelik bitiş gibi tarihleri takip edilebilmesi için yapılan salon üye kaydı.
 Bu iki tip kullanıcı sistemi, birbirinden bağımsız olarak ilerlemektedir.
 
@@ -62,7 +62,7 @@ Bu iki tip kullanıcı sistemi, birbirinden bağımsız olarak ilerlemektedir.
 ## Fiyat Tablosu sayfasından da içecek ve üyelik fiyatları incelenebilir: <br>
 ![Image Alt](https://github.com/Scapter/Fitness-Otomasyonu/blob/main/proje_g%C3%B6rselleri/kullan%C4%B1c%C4%B1fiyat.png?raw=true) 
 
-## -- ADMİN İÇİN --
+# -- ADMİN İÇİN --
 <br>
 
 ## Admin ana sayfası : <br>
@@ -80,7 +80,7 @@ Bu iki tip kullanıcı sistemi, birbirinden bağımsız olarak ilerlemektedir.
 
 --------------
 
-## Egzersiz Aletleri : <br> (Burada görsel seçimi yapıldığında görsel otomatik olarak projedeki bin\Debug\Images klasörüne kaydedilecek aynı şekilde silme yapıldığında görsel klasördende silinecek ve aynı görseller için birden fazla kopya oluşturulmayacak) <br>
+## Egzersiz Aletleri : <br> (Burada seçilen görseller otomatik olarak `bin\Debug\Images` klasörüne kaydedilir. Aynı görseller için birden fazla kopya oluşmaz, silindiğinde klasörden de silinir.) <br>
 ![Image Alt](https://github.com/Scapter/Fitness-Otomasyonu/blob/main/proje_g%C3%B6rselleri/adminaletler.png?raw=true) 
 
 --------------
