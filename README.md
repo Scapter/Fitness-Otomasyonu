@@ -34,7 +34,7 @@ Bu iki tip kullanıcı sistemi, birbirinden bağımsız olarak ilerlemektedir.
 
 --------------
 
-## Admin girşi sayfası, admin için yeni profil kaydı giriş yapıldıktan sonra yapılabilir. giriş için <br> kullanıcı adı : admin <br>  şifre 123 <br>
+## Admin girşi sayfası, admin için yeni profil kaydı giriş yapıldıktan sonra yapılabilir. giriş için : <br> kullanıcı adı : admin <br>  şifre 123 <br>
 ![Image Alt](https://github.com/Scapter/Fitness-Otomasyonu/blob/main/proje_g%C3%B6rselleri/adminlogin.png?raw=true) 
 
 --------------
