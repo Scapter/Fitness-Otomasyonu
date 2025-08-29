@@ -75,12 +75,12 @@ Bu iki tip kullanıcı sistemi, birbirinden bağımsız olarak ilerlemektedir.
 
 --------------
 
-## Salon işlemleri sayfasından da salonla ilgili birçok şeyi yönetebilir, Egzersiz programları : <br>
+## Salon işlemleri sayfasından da salonla ilgili birçok şeyi yönetebilir <br> Egzersiz programları : <br>
 ![Image Alt](https://github.com/Scapter/Fitness-Otomasyonu/blob/main/proje_g%C3%B6rselleri/adminprogram.png?raw=true) 
 
 --------------
 
-## Egzersiz Aletleri : (Burada görsel seçimi yapıldığında görsel otomatik olarak projedeki bin\Debug\Images klasörüne kaydedilecek aynı şekilde silme yapıldığında görsel klasördende silinecek ve aynı görseller için birden fazla kopya oluşturulmayacak) <br>
+## Egzersiz Aletleri : <br> (Burada görsel seçimi yapıldığında görsel otomatik olarak projedeki bin\Debug\Images klasörüne kaydedilecek aynı şekilde silme yapıldığında görsel klasördende silinecek ve aynı görseller için birden fazla kopya oluşturulmayacak) <br>
 ![Image Alt](https://github.com/Scapter/Fitness-Otomasyonu/blob/main/proje_g%C3%B6rselleri/adminaletler.png?raw=true) 
 
 --------------
